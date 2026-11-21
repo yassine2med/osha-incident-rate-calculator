@@ -2,6 +2,8 @@
 
 # osha-incident-rate-calculator
 
+[![CI](https://github.com/yassine2med/osha-incident-rate-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/osha-incident-rate-calculator/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Computes TRIR and DART rates per period and in total from a CSV of hours worked and case counts.
 
 ![Screenshot](docs/screenshot.png)
