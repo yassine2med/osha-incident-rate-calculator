@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="osha-incident-rate-calculator" width="100%"></p>
+
 # osha-incident-rate-calculator
 
 Computes TRIR and DART rates per period and in total from a CSV of hours worked and case counts.
